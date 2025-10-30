@@ -1,6 +1,7 @@
 # 👨‍💻 Mai Đăng Tiến
-** Data Analyst | Environment Background **
-**📍Danang City | ✉️ mdtien.bkdn@gmail.com**
+** Data Analyst | Environment Background**
+📍Danang City | ✉️ mdtien.bkdn@gmail.com
+
 ---
 
 ## 👋 About me
