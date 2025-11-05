@@ -11,4 +11,21 @@ Transition into "Data Analyst" with Environmental Engineering background which i
 
 ## 🏭Feature Project  
 
+## 🔍Technical skill  
+- **Languages and tools**: SQL(Join, CTEs, Window), Python(Pandas, MatplobLib, Seaborn), PowerBI  
+- **Analytics**: RFM Model, Clustering, PVM Analysis, Visualization  
+- **Platform**: Azure Studio, Visual Studio, Google Collab  
 
+---
+
+## 💼Education and Certificate  
+**Engineer Degree of Environmental Engineering** - Danang University of Sciences and Technologies - GPA: 2.97/4.0  
+
+**Certification**
+- **SQL Advance** (HackerRank)
+- **Data Analyst Course**(VTI Academy)  
+
+---
+
+## Let's Connect
+Linkedln:
