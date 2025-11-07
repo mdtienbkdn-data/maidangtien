@@ -19,7 +19,8 @@ Transition into "Data Analyst" with Environmental Engineering background which i
 ---
 
 ## 💼 Education and Certificate  
-**Engineer Degree of Environmental Engineering**   - Danang University of Sciences and Technologies - GPA: 2.97/4.0  
+**Engineer Degree of Environmental Engineering**   
+- Danang University of Sciences and Technologies - GPA: 2.97/4.0  
 
 **Certification**
 - **SQL Advance** (HackerRank)
